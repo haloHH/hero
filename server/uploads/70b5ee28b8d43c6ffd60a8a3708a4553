@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://pvp.qq.com/web201605/herodetail/m/111.html -->
+<html style="font-size: 204.8px;"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+	
+	<meta name="author" content="Tencent-CP">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="keywords" content="王者荣耀孙尚香,孙尚香王者荣耀,王者荣耀孙尚香出装,王者荣耀孙尚香铭文">
+	<meta name="description" content="《王者荣耀》官方英雄资料、孙尚香技能介绍、孙尚香技能加点建议、孙尚香铭文搭配建议、孙尚香出装建议、孙尚香英雄关系、孙尚香攻略">
+	<title>王者荣耀-王者荣耀官方网站-腾讯游戏</title>
+	<!-- 页面设计：cp | 页面制作：cp | 创建：2017-06-16-->
+	<script>
+		function samResize() {
+			var docEl = document.documentElement;
+			var clientWidth = docEl.clientWidth;
+			if (!clientWidth) {
+				return
+			}
+			docEl.style.fontSize = 100 * (clientWidth / 750) + "px"
+		}
+		samResize();
+	</script>
+	<link href="./3_files/base.css" rel="stylesheet">
+	<link href="./3_files/canon.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="wrap">
+		<div class="home-top">
+			<div class="logo_cont">
+				<a class="logo_img" href="https://pvp.qq.com/m/index.shtml">
+					<img src="./3_files/logo.png" alt="LOGO">
+				</a>
+				<div class="logo_title">
+					<h1>王者荣耀&nbsp;&nbsp;&nbsp;&nbsp;攻略站</h1>
+				</div>
+			</div>
+			<div class="download">
+				<a href="https://pvp.qq.com/m/m201706/heroList.shtml" onclick="PTTSendClick(&#39;mainnav&#39;,&#39;tostrategy&#39;,&#39;攻略站&#39;);"><span>更多英雄</span>&gt;</a>
+			</div>
+		</div>
+		<div class="header-hero">
+			<img src="./3_files/111-bigskin-1.jpg" alt="">
+			<div class="hero-attribute">
+				<p class="hero-title">千金重弩</p>
+				<p class="hero-name">孙尚香</p>
+				<p class="hero-location" data-herotype="5/">射手</p>
+				<div class="hero-cover">
+					<ul class="cover-list c">
+						<li>生存
+							<span class="cnver1 hero-attrsp hero-attr1-3"></span>
+						</li>
+						<li>攻击
+							<span class="cnver2 hero-attrsp hero-attr2-8"></span>
+						</li>
+						<li>技能
+							<span class="cnver3 hero-attrsp hero-attr3-5"></span>
+						</li>
+						<li>难度
+							<span class="cnver4 hero-attrsp hero-attr4-6"></span>
+						</li>
+					</ul>
+					<a href="https://pvp.qq.com/m/m201706/herodetail/skin.shtml?imgname=%u5343%u91D1%u91CD%u5F29%260%7C%u706B%u70AE%u5343%u91D1%260%7C%u6C34%u679C%u751C%u5FC3%261%7C%u8537%u8587%u604B%u4EBA%2612%7C%u6740%u624B%u4E0D%u592A%u51B7%2626%7C%u672B%u65E5%u673A%u7532%2615%7C%u6C89%u7A33%u4E4B%u529B%2627&amp;name=111" class="hero-skin" data-imgname="千金重弩&amp;0|火炮千金&amp;0|水果甜心&amp;1|蔷薇恋人&amp;12|杀手不太冷&amp;26|末日机甲&amp;15|沉稳之力&amp;27" data-name="111">皮肤：7</a>
+				</div>
+			</div>
+		</div>
+		<div class="content-hero slide-container" style="height: 7868px;">
+			<ul class="hero-nav slide-nav">
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;explain&#39;,&#39;新手初识&#39;);" class="current">
+					<a href="javascript:;">英雄初识</a>
+				</li>
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;strategy&#39;,&#39;高手进阶&#39;);" class="">
+					<a href="javascript:;">进阶攻略</a>
+				</li>
+			</ul>
+			<div class="content-tab slide-content" style="position: relative; overflow: hidden; backface-visibility: hidden;">
+				<!-- 介绍 -->
+				<div class="content-list slide-item current" style="position: absolute; top: 0px; left: 0px; transform: translateX(0px); visibility: visible;">
+					<div class="hero-video">
+						<a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=48994&amp;e_code=pvpapp.searchiSubType.iSubType657" class="video-play" onclick="PTTSendClick(&#39;tab&#39;,&#39;video&#39;,&#39;视频&#39;);">英雄介绍视频</a>
+						<a href="https://pvp.qq.com/m/m201706/heropic-detail.shtml?hid=111" class="voice-play play loud-link-click">一图识英雄</a>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom pr" id="PlusTab">
+							<ul class="plus-tab c controller">
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list1&quot;});" class="current">
+									<img src="./3_files/11100.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list2&quot;});">
+									<img src="./3_files/11110.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list3&quot;});">
+									<img src="./3_files/11120.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list4&quot;});">
+									<img src="./3_files/11130.png" alt="">
+								</li>
+								
+							</ul>
+							<ul class="plus-content content">
+								<li class="current" style="display: list-item; transform-origin: 0px 0px; opacity: 1; transform: scale(1, 1);">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="{skill1}">活力迸发</span>
+										<span class="plus-value">(冷却值：0 消耗：0)</span>
+									</div>
+									<p class="plus-int">被动：孙尚香每次普通攻击命中敌人都会减少0.5秒翻滚突袭的冷却时间。</p>
+									<p class="prompt">小提示：利用更多的普攻来减少1技能翻滚突袭的CD时间，可以让孙尚香更灵活</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="11110">翻滚突袭</span>
+										<span class="plus-value">(冷却值：6/5.8/5.6/5.4/5.2/5 消耗：25)</span>
+									</div>
+									<p class="plus-int">孙尚香向指定方向翻滚，下一次普通攻击变更为强化射击，强化射击会对一条直线上的敌人造成250/275/300/325/350/375（+100%物理加成）点物理伤害，如果翻滚后附近有敌方英雄将会增加80%持续衰减的移动速度，持续2秒，使用强化射击后会重置下一次普通攻击并增加攻击距离。</p>
+									<p class="prompt">小提示：孙尚香主要的位移技能和输出技能，用于追人和撤退使用</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="11120">红莲爆弹</span>
+										<span class="plus-value">(冷却值：8.0/7.6/7.2/6.8/6.4/6.0 消耗：50)</span>
+									</div>
+									<p class="plus-int">孙尚香朝指定位置投掷爆弹，对范围内敌人造成200/240/280/320/360/400（+100%物理加成）点物理伤害并减少其90%移动速度，持续1秒。被命中的英雄和小兵还会被标记5秒，孙尚香的普攻伤害会对标记目标造成额外100/120/140/160/180/200（+20%物理加成）点物理伤害（对小兵的伤害翻倍）；命中敌人后增加孙尚香物理穿透25%,持续5秒。</p>
+									<p class="prompt">小提示：相当于一个范围性的软控制技能，命中敌人后，能让孙尚香更好的输出敌人或选择撤退</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="11130">究极弩炮</span>
+										<span class="plus-value">(冷却值：30/25/20 消耗：100)</span>
+									</div>
+									<p class="plus-int">孙尚香蓄力向指定方向发射一枚弩炮，弩炮在触碰敌人或者飞行到最远距离后将发生爆炸，对第一名触碰的敌人造成500/750/1000（+185%物理加成）点物理伤害，对爆破范围内的敌人造成75%伤害。</p>
+									<p class="prompt">小提示：这个技能最好在战斗初使用，尽量将敌人打残，让孙尚香尽早进入收割的节奏</p>
+								</li>
+								
+							</ul>
+							<div class="plus-control">
+								<span class="plus-prev plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pprev&quot;});"></span>
+								<span class="plus-next plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pnext&quot;});"></span>
+							</div>
+
+						</div>
+					</div>
+					<div class="panel brbn">
+						<div class="autom">
+							<h3 class="tit1 ic16">加点建议</h3>
+							<div class="plus-osal c">
+								<div class="osal-box sk1 l">
+									<span class="osal-p1">主升</span>
+									<img src="./3_files/11110.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="11110">翻滚突袭</span>
+								</div>
+								<div class="osal-box sk2 l">
+									<span class="osal-p1">副升</span>
+									<img src="./3_files/11120.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="11120">红莲爆弹</span>
+								</div>
+								<div class="osal-suner l">
+									<p>召唤师技能</p>
+									<div class="c" id="skill3" data-skill="80109|80110"><div class="osal-box l"><img src="./3_files/80109.jpg" alt=""><span class="osal-p2">疾跑</span></div><div class="osal-box l"><img src="./3_files/80110.jpg" alt=""><span class="osal-p2">狂暴</span></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom">
+							<h3 class="tit1 ic11">出装推荐</h3>
+							<div class="skills-build">
+								<p class="tit2">顺风出装</p>
+								<ul class="build-list equip-list" data-item="1425|1135|1133|1134|1155|1138"><li><span class="build-img"><img src="./3_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./3_files/1135.jpg" alt=""></span><span class="build-name">闪电匕首</span></li><li><span class="build-img"><img src="./3_files/1133.jpg" alt=""></span><span class="build-name">无尽战刃</span></li><li><span class="build-img"><img src="./3_files/1134.jpg" alt=""></span><span class="build-name">宗师之力</span></li><li><span class="build-img"><img src="./3_files/1155.jpg" alt=""></span><span class="build-name">破晓</span></li><li><span class="build-img"><img src="./3_files/1138.jpg" alt=""></span><span class="build-name">破军</span></li></ul>
+								<p class="prompt">小提示：孙尚香通过翻滚会打出节奏性的强化普攻配合宗师之力，会让爆发力更加强大</p>
+							</div>
+							<div class="skills-build brn">
+								<p class="tit2">逆风出装</p>
+								<ul class="build-list equip-list" data-item="1425|1133|1135|1134|1132|1155"><li><span class="build-img"><img src="./3_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./3_files/1133.jpg" alt=""></span><span class="build-name">无尽战刃</span></li><li><span class="build-img"><img src="./3_files/1135.jpg" alt=""></span><span class="build-name">闪电匕首</span></li><li><span class="build-img"><img src="./3_files/1134.jpg" alt=""></span><span class="build-name">宗师之力</span></li><li><span class="build-img"><img src="./3_files/1132.jpg" alt=""></span><span class="build-name">泣血之刃</span></li><li><span class="build-img"><img src="./3_files/1155.jpg" alt=""></span><span class="build-name">破晓</span></li></ul>
+								<p class="prompt">小提示：当对手消耗能力较强时，可以选择吸血属性的装备为自己带来一定的续航效果</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic12">铭文推荐</h3>
+							<div class="rune-list" data-ming="1519|3514|2517"><dl class="rune-cont c"><dt><img src="./3_files/1519.png" alt=""></dt><dd><p class="rp1">祸源</p><p class="rp2"></p><p>暴击率+1.6%</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./3_files/3514.png" alt=""></dt><dd><p class="rp1">鹰眼</p><p class="rp2"></p><p>物理攻击力+0.9</p><p>物理穿透+6.4</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./3_files/2517.png" alt=""></dt><dd><p class="rp1">隐匿</p><p class="rp2"></p><p>物理攻击力+1.6</p><p>移速+1%</p><p></p></dd></dl></div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic13">使用技巧</h3>
+							<p class="use-skills">使用时需要注意1技能的使用时机，在对方刺客未交技能时，需要留着1技能进行输出，待对方切入后选择位移拉开距离；孙尚香是一个靠攻速打伤害的英雄，所以攻速装会有很高的性价比</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic14">对抗技巧</h3>
+							<p class="use-skills">1、刺客英雄需要抓住孙尚香走位失误时或交出位移技能后近身击杀；2、孙尚香很灵活，所以需要找准机会利用控制技能控制后将其击杀</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic15">团战思路</h3>
+							<p class="use-skills">团战时孙尚香可以先放出大招，以使敌方尽快致残更快进入收割节奏.但孙尚香很脆，敌方刺客切入后，一定要留着1技能与其拉开距离输出，不然就会很快被击杀</p>
+						</div>
+					</div>
+					<div class="panel">
+						<div class="autom">
+							<h3 class="tit1 ic8">英雄关系</h3>
+							<p class="tit2">最佳搭档</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./3_files/113.jpg" class="rela-img" alt="">
+									<p class="rela-text">庄周：孙尚香是比较灵活的射手类英雄，但是如果被控制怎么也灵活不起来，所以推荐庄周作为孙尚香的搭档，在携带净化的情况下，无论是单抓还是团战，孙尚香都不在畏惧敌方的控制性技能，轻松打出成吨的输出。</p>
+								</li>
+								<li>
+									<img src="./3_files/187.jpg" class="rela-img" alt="">
+									<p class="rela-text">东皇太一：东皇太一的大招可以控制敌方英雄，是应对敌方突进英雄的不二选择，东皇的超强回复能力注定了东皇也是一名合格的坦克，有东皇在前排吸收敌方火力，后排的孙尚香就可以安心输出。</p>
+								</li>
+							</ul>
+							<p class="tit2">被谁克制</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./3_files/153.jpg" class="rela-img" alt="">
+									<p class="rela-text">兰陵王的隐身和秒杀能力很容易接近孙尚香将其秒杀</p>
+								</li>
+								<li>
+									<img src="./3_files/154.jpg" class="rela-img" alt="">
+									<p class="rela-text">花木兰的超高爆发输出能力能快速击杀走位不慎的孙尚香</p>
+								</li>
+							</ul>
+							<p class="tit2">克制谁</p>
+							<ul class="rela-list brn" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./3_files/129.jpg" class="rela-img" alt="">
+									<p class="rela-text">典韦：在前中期，典韦的输出不足以秒掉孙尚香，而孙尚香面对近身的典韦也可以利用一技能加速效果轻松跑路。后期，典韦的反伤刺甲和不祥征兆对于多段攻击的射手可能不太友好，但是面对孙尚香的强化普攻仍容易被压制。</p>
+								</li>
+								<li>
+									<img src="./3_files/187.jpg" class="rela-img" alt="">
+									<p class="rela-text">东皇太一：东皇太一大招范围小，只有能量球触碰到敌方英雄才会回血，所以，孙尚香的超远射程就可以轻松克制他，东皇的二技能虽然控制长达一秒，但是延迟太高，面对拥有位移的孙尚香命中率低。大招作为强力控制，范围是硬伤，无法靠近孙尚香就会被消耗至死。</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- 攻略 -->
+				<div class="content-list slide-item" style="position: absolute; top: 0px; left: 0px; visibility: hidden;">
+					<ul class="raiders-list strategy-info"><li id="205780"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=205780&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【快速上手英雄技能】孙尚香" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(205780);"><div class="vdbtn-left"><img src="./3_files/saved_resource" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【快速上手英雄技能】孙尚香</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1599.6万</span><span class="rd-video-spr rd-video-day">2017-12-11</span></div></div></a></li><li id="48994"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=48994&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【英雄介绍】千金重弩孙尚香" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(48994);"><div class="vdbtn-left"><img src="./3_files/saved_resource(1)" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【英雄介绍】千金重弩孙尚香</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">379.5万</span><span class="rd-video-spr rd-video-day">2016-07-06</span></div></div></a></li><li id="558334"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=558334&amp;e_code=pvpweb_m.statictypenew.type2" title="【国服观影路】第2期：国服孙尚香带躺秘籍,孤影被粉丝强人锁男" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(558334);"><div class="vdbtn-left"><img src="./3_files/45faf139868734eddd63331a3a110447.1569730425.c109fa03617fd00bcd0379c6983d09a1.184x124_6548.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【国服观影路】第2期：国服孙尚香带躺秘籍,孤影被粉丝强人锁男</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">891.6万</span><span class="rd-video-spr rd-video-day">2019-09-29</span></div></div></a></li><li id="451378"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=451378&amp;e_code=pvpweb_m.statictypenew.type2" title="【上分拍档】第56期：孙尚香太乙明世隐 爆炸输出横行无阻" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(451378);"><div class="vdbtn-left"><img src="./3_files/3d8f20bcdd5905a086795b99b523b2a1.1542879043.d342e71dc286f8eed3335b8722bf83dc.750x422_37893.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【上分拍档】第56期：孙尚香太乙明世隐 爆炸输出横行无阻</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">717.6万</span><span class="rd-video-spr rd-video-day">2018-11-23</span></div></div></a></li><li id="599379"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=599379&amp;e_code=pvpweb_m.statictypenew.type2" title="王者荣耀梦演：孙尚香拉扯这么强？每次普攻后会减少一技能冷却！" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(599379);"><div class="vdbtn-left"><img src="./3_files/8603ea5b4d4f0278ab5f105abce07f17.1584768574.bb8796915e72d6183412c9436edfe50e.230x140_49463.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>王者荣耀梦演：孙尚香拉扯这么强？每次普攻后会减少一技能冷却！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">6.4万</span><span class="rd-video-spr rd-video-day">2020-03-22</span></div></div></a></li><li id="596851"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=596851&amp;e_code=pvpweb_m.statictypenew.type2" title="没见过这么嚣张的哪吒，把把都飞我" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(596851);"><div class="vdbtn-left"><img src="./3_files/aed1dfbc31703955e64806b799b67645.1583994592.25739db9035791118eca2281ec285d50.230x140_10724.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>没见过这么嚣张的哪吒，把把都飞我</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1.6万</span><span class="rd-video-spr rd-video-day">2020-03-13</span></div></div></a></li><li id="596496"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=596496&amp;e_code=pvpweb_m.statictypenew.type2" title="王者荣耀梦演：巅峰赛孙尚香遇到李元芳怎么打？用好净化解除标记" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(596496);"><div class="vdbtn-left"><img src="./3_files/6f05e504fd3f96b68f36bca57eb8af99.1583901603.a0d9765db4ec6526250eeffe2e45c356.230x140_40057.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>王者荣耀梦演：巅峰赛孙尚香遇到李元芳怎么打？用好净化解除标记</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1.5万</span><span class="rd-video-spr rd-video-day">2020-03-11</span></div></div></a></li><li id="596379"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=596379&amp;e_code=pvpweb_m.statictypenew.type2" title="稳住队友的心态，才能赢下游戏" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(596379);"><div class="vdbtn-left"><img src="./3_files/aed1dfbc31703955e64806b799b67645.1583830144.5b7d6f5e4ee733c09cf091ea48a9ac05.230x140_10724.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>稳住队友的心态，才能赢下游戏</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1.2万</span><span class="rd-video-spr rd-video-day">2020-03-11</span></div></div></a></li><li id="601223"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=601223&amp;e_code=pvpweb_m.statictypenew.type2" title="王者荣耀梦演：孙尚香怎么打狂暴后羿？二技能命中后伤害更高！" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(601223);"><div class="vdbtn-left"><img src="./3_files/eccbc87e4b5ce2fe28308fd9f2a7baf3.1585282408.0a8dab3985347aa520bba7e088081041.230x140_83143.png" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>王者荣耀梦演：孙尚香怎么打狂暴后羿？二技能命中后伤害更高！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">5606</span><span class="rd-video-spr rd-video-day">2020-03-27</span></div></div></a></li><li id="447237"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=447237" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(447237);"><div class="vdbtn-left"><img src="./3_files/6da9003b743b65f4c0ccd295cc484e57.1584513947.064cc6dca77b6d32823e5291bdbb4824.230x140_74478.jpg" alt=""></div><div class="vdbtn-right"><p>3.13体验服：相机超高增加，对于战士刺客射手是福还是祸？</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">3572</span><span class="rd-video-spr rd-video-day">2020-03-20</span></div></div></a></li><li id="604852"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=604852&amp;e_code=pvpweb_m.statictypenew.type2" title="QG妖刀依靠龙王BUFF，孙尚香一枪伤害爆炸" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(604852);"><div class="vdbtn-left"><img src="./3_files/c81e728d9d4c2f636f067f89cc14862c.1586394904.77283212ee4d0dd37dc74ca92dafd339.230x140_103571.png" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>QG妖刀依靠龙王BUFF，孙尚香一枪伤害爆炸</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1825</span><span class="rd-video-spr rd-video-day">2020-04-09</span></div></div></a></li><li id="449622"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=449622" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(449622);"><div class="vdbtn-left"><img src="./3_files/1d47efb4f5708bef2b867b25a40dc9fc.1585647638.4b11056e2cf1f88cc1e03f707fc15ed0.230x140_12768.jpg" alt=""></div><div class="vdbtn-right"><p>翻滚突袭定乾坤！CW.Quan孙尚香伤害拉满毁天灭地</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1732</span><span class="rd-video-spr rd-video-day">2020-03-31</span></div></div></a></li><li id="455921"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=455921" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(455921);"><div class="vdbtn-left"><img src="./3_files/235952add03ecffe06d5bbf9cdb3ae16.1588511740.fa9730350a521de8fe8dd008e55e4a94.230x140_57580.jpg" alt=""></div><div class="vdbtn-right"><p>孙尚香打不出伤害？成为“金牌射手”这些方法必须要掌握！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">87</span><span class="rd-video-spr rd-video-day">2020-05-04</span></div></div></a></li><li id="455616"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=455616" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(455616);"><div class="vdbtn-left"><img src="./3_files/d41d8cd98f00b204e9800998ecf8427e.1588378970.afd4a4038afb63a027ce154c766a4742.230x140_60255.jpg" alt=""></div><div class="vdbtn-right"><p>S19赛季孙尚香上分攻略，身法灵活，带你体验爆炸的魅力！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">114</span><span class="rd-video-spr rd-video-day">2020-05-02</span></div></div></a></li><li id="454993"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454993" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454993);"><div class="vdbtn-left"><img src="./3_files/8c1f8c0b586b5b54cdd3b9b03af526ce.1588083458.195e07ebb751eb1e5618c61a8664cf17.230x140_53452.jpg" alt=""></div><div class="vdbtn-right"><p>孙尚香“一秒五枪”教学，瞬间伤害打满，坦克都扛不住！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">215</span><span class="rd-video-spr rd-video-day">2020-04-30</span></div></div></a></li><li id="454911"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454911" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454911);"><div class="vdbtn-left"><img src="./3_files/235952add03ecffe06d5bbf9cdb3ae16.1588079072.904ece2167af21ba840acb9ea74b7feb.230x140_54297.jpg" alt=""></div><div class="vdbtn-right"><p>射手篇（一）千金重弩 孙尚香 细节教学  秒人不只是说着玩的</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">165</span><span class="rd-video-spr rd-video-day">2020-04-29</span></div></div></a></li><li id="454614"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454614" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454614);"><div class="vdbtn-left"><img src="./3_files/235952add03ecffe06d5bbf9cdb3ae16.1587949397.e6b7a9624e8b1a4e6e5b659a85d9916c.230x140_50839.jpg" alt=""></div><div class="vdbtn-right"><p>孙尚香：版本射手一姐，配合他更是强势</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">550</span><span class="rd-video-spr rd-video-day">2020-04-28</span></div></div></a></li><li id="454576"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454576" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454576);"><div class="vdbtn-left"><img src="./3_files/c4ca4238a0b923820dcc509a6f75849b.1587978200.669817dceac9ef635727fcb78d29cf72.230x140_75885.png" alt=""></div><div class="vdbtn-right"><p>“千金重弩”，一炮一暴击的孙尚香进阶攻略</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">66</span><span class="rd-video-spr rd-video-day">2020-04-28</span></div></div></a></li><li id="454324"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454324" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454324);"><div class="vdbtn-left"><img src="./3_files/c4ca4238a0b923820dcc509a6f75849b.1587866484.8564453bcaa6b322f5d8024424d98528.230x140_52775.jpg" alt=""></div><div class="vdbtn-right"><p>后期无敌单点孙尚香，秒脆皮仅需一枪，上分很稳健！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">58</span><span class="rd-video-spr rd-video-day">2020-04-26</span></div></div></a></li><li id="454199"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=454199" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(454199);"><div class="vdbtn-left"><img src="./3_files/saved_resource(2)" alt=""></div><div class="vdbtn-right"><p>王者荣耀：爆发型的刺客射手孙尚香，秒人的秘诀在这里</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">243</span><span class="rd-video-spr rd-video-day">2020-04-26</span></div></div></a></li><li id="453672"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=453672" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(453672);"><div class="vdbtn-left"><img src="./3_files/saved_resource(3)" alt=""></div><div class="vdbtn-right"><p>国一孙尚香多恐怖？2243分97％胜率不算啥，细节出装暴击2万</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">465</span><span class="rd-video-spr rd-video-day">2020-04-23</span></div></div></a></li><li id="453728"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=453728" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(453728);"><div class="vdbtn-left"><img src="./3_files/f627bde18bf98fe52d5862d54e0786a7.1587554725.286e5a449918d76c531b9802c2413fea.230x140_54814.jpg" alt=""></div><div class="vdbtn-right"><p>翻滚一枪 脆皮噩梦 热门射手上分孙尚香铭文出装全解析</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">295</span><span class="rd-video-spr rd-video-day">2020-04-23</span></div></div></a></li></ul>
+					<div class="load-more">
+						<a href="javascript:;" class="load-link">全部加载完成</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="javascript: showShareDialog();" class="hero-share"></a>
+	</div>
+	<div class="share-guide">
+		<img src="./3_files/share-guide.png" alt="">
+	</div>
+	<script src="./3_files/jquery-1.11.3.min.js.下载"></script>
+	<script type="text/javascript" src="./3_files/milo.js.下载"></script>
+	<script type="text/javascript" src="./3_files/fastclick.min.js.下载"></script>
+	<script type="text/javascript" src="./3_files/PAGE_WMP_BIZ_TYPE.js.下载"></script>
+	<script src="./3_files/Activity_Comm.js.下载"></script>
+	<script src="./3_files/wmpCommon_v3.js.下载"></script>
+	<script src="./3_files/TGMobileShare.min.js.下载"></script>
+	<script type="text/javascript" src="./3_files/ping_tcss_tgideas_https_min.js.下载"></script>
+	<script type="text/javascript" src="./3_files/herodetail.js.下载" charset="UTF-8"></script>
+	<script>
+	    //此段代码不能放到外链JS中，
+		var setSite = { //设置网站属性
+			siteType: "os", //必填项:"os"代表是官网，如果不是，则填写actName例如a20160701xxx
+			pageType: "herodetail", //必填项:本页面的定位；按照页面含义填写例如main||list||detail||download||share||page1||pageN
+			pageName: "英雄攻略", //必填项:页面中文名
+			osact: "m", //选填项:是否是官网专题(在官网运营的专题)boolean；默认是0；可以在链接上加入参数osact=1来灵活设置
+			project:"base"
+		}
+		if (typeof (pgvMain) == 'function') pgvMain(); //千万不能忘记！
+		
+		if ($('.brf .hero-story').text().trim() == 'undefined') {
+			$('.brf').remove();
+		}
+
+		$('.loud-link-click').attr('href', '/m/m201706/heropic-detail.shtml?hid=111');
+
+		TGMobileShare({
+			shareTitle: '王者荣耀攻略站-孙尚香英雄攻略',
+			shareImgUrl: 'https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/111/111-bigskin-1.jpg',
+			actName: 'zsbdm-hero111'
+		});
+
+		// 技能加点切换
+		setArrow();
+
+		function setArrow() {
+			var $list = $('.plus-tab'),
+				counts = $list.children().length,
+				$control = $('.plus-control'),
+				oddWidth = $('#PlusTab').width(),
+				_w = Math.ceil(counts / 5),
+				$prev = $('.plus-prev'),
+				$next = $('.plus-next'),
+				i = 0;
+
+			if (counts > 5) {
+				$control.css('display', 'block');
+				$list.css('width', _w + '00%');
+
+				init();
+			}
+
+			function init() {
+				$prev.on('click', function () {
+					if (i == 0) return false;
+					i--;
+					var px = -i * oddWidth + 'px';
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+
+				$next.on('click', function () {
+					i++;
+					var px = -i * oddWidth + 'px';
+					if (i + 1 == _w) {
+						$(this).hide();
+					}
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+			}
+
+			function arrowShow() {
+				if (i == 0) {
+					$prev.css('display', 'none');
+				} else {
+					$prev.css('display', 'block');
+				}
+
+				if (i + 1 == _w) {
+					$next.css('display', 'none');
+				} else {
+					$next.css('display', 'block');
+				}
+			}
+		}
+	</script><script src="./3_files/qqapi.https.js.下载"></script><img src="./3_files/pingd" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;">
+
+
+<img src="./3_files/pingd(1)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"><img src="./3_files/pingd(2)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"></body></html>
